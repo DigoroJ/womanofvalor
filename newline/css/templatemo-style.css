@@ -124,11 +124,16 @@ video::-webkit-media-controls {
 
   .logo img {
     height: auto;
-    width: 400px;
+    width: 500px;
   }
 }
 @media only screen and (min-width: 1170px) {
   .cd-hero-slider {
+  }
+
+  .logo img {
+    height: auto;
+    width: 650px;
   }
 }
 
