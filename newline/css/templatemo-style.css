@@ -115,6 +115,11 @@ video::-webkit-media-controls {
 @media only screen and (min-width: 768px) {
   .cd-hero-slider {
   }
+
+  .logo img {
+    height: auto;
+    width: 400px;
+  }
 }
 @media only screen and (min-width: 1170px) {
   .cd-hero-slider {
@@ -180,6 +185,12 @@ video::-webkit-media-controls {
   background-color: #fff;
   border-top: 15px solid #ffbb05;
   box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+}
+
+.logo img {
+  height: auto;
+  width: 80%;
+  padding-bottom: 50px;
 }
 
 
