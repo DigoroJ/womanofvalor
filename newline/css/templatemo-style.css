@@ -237,7 +237,7 @@ video::-webkit-media-controls {
 }
 
 .heading h1 {
-  margin-top: 30px;
+  margin-top: -3px;
   font-size: 38px;
   text-transform: uppercase;
   color: #fff;
@@ -289,7 +289,7 @@ video::-webkit-media-controls {
 }
 
 .second-slide .heading h1 {
-  margin-top: 30px;
+  margin-top: -3px;
   font-size: 38px;
   text-transform: uppercase;
   color: #fff;
@@ -371,7 +371,7 @@ video::-webkit-media-controls {
 }
 
 .third-slide .heading h1 {
-  margin-top: 30px;
+  margin-top: -3px;
   font-size: 38px;
   text-transform: uppercase;
   color: #fff;
@@ -451,7 +451,7 @@ video::-webkit-media-controls {
 }
 
 .fourth-slide .heading h1 {
-  margin-top: 30px;
+  margin-top: -3px;
   font-size: 38px;
   text-transform: uppercase;
   color: #fff;
@@ -494,7 +494,7 @@ video::-webkit-media-controls {
 }
 
 .fivth-slide .heading h1 {
-  margin-top: 30px;
+  margin-top: -3px;
   font-size: 38px;
   text-transform: uppercase;
   color: #fff;
