@@ -437,6 +437,31 @@ video::-webkit-media-controls {
   margin-top: 30px;
 }
 
+.third-content .project-item {
+  margin: 15px 0px;
+
+  img {
+    width: 100%;
+    overflow: hidden;
+  }
+}
+
+.third-content .right-feature-text h2 {
+  font-size: 25px;
+  color: #121212;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  text-align: center;;
+}
+
+.third-content .right-feature-text h2 em {
+  font-style: normal;
+  font-weight: 700;
+  color: #ffbb05;
+}
+
 
 /*
 =======================
