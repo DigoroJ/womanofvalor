@@ -11,17 +11,12 @@
  */
 
 const now = new Date();
-console.log("Current Date and Time:", now.toString());
-const hours = now.getHours().toString().padStart(2, '0');
-const minutes = now.getMinutes().toString().padStart(2, '0');
-const seconds = now.getSeconds().toString().padStart(2, '0');
-hoursLeft = 24 - (parseInt(hours) + 1)
 
-now.getFullYear()
-date1 = new Date("2025-12-25");
-diffInMs = date1 - now;
-diffInMs = diffInMs / (1000 * 60 * 60 * 24);
-console.log("Hours left", diffInMs.toString());
+year = now.getFullYear()
+
+console.log('year');
+
+
 
 
 
